@@ -1,18 +1,24 @@
-# Introduction
+# 📖 Introduction
 
 Exploring the data job industry! I focused on the data analyst field, where this project investigates top-paying jobs, high demand skills, and the apex of where high demand meets high paying roles in data analytics.
 
 SQL queries? See them here: [Capstone_Project_SQL](/Capstone_Project_SQL/).
 
-# Background
+# 💼 Background
 
-Driven by a desire to pivot into a more rewarding career which would challenge me to grow and learn new skills, I decided to embark on a journey into the field of data analytics. I scoured the internet in search of a tutor who could help me on this new endeavour. 
+Driven by a desire to transition into a more rewarding career that would challenge me to continuously learn, solve problems, and develop new skills, I began my journey into data analytics.
 
-Enter **'Luke Barousse'**. He taught me all the necessary skills to be able to run queries, perform aggregations and complete my first SQL project, he also provided me with a data set that would explore the data analytics field, the high paying roles as well as pin point top-paid and in-demand skills.
+As I explored the field, I became increasingly interested in understanding what the data could reveal about the job market itself — particularly which roles offer the highest salaries, which skills are most in demand, and how these factors can influence career opportunities within data analytics.
 
-The data provided was packed with insights on job titles, salaries, locations and essential skills needed to enter the data jobs market.
+This led me to undertake my first SQL capstone project, where I applied the SQL skills I had developed to a real-world dataset of data job postings. Rather than simply querying the data, I wanted to use it to answer practical questions about job titles, salaries, locations, employment opportunities, and the skills employers are looking for.
 
-### The questions I wanted to answer with SQL queries were:
+Throughout the project, I used SQL to explore, filter, aggregate, and analyze the dataset, turning raw job-posting data into meaningful insights about the data analytics job market.
+
+The project was completed as part of my learning journey with Luke Barousse, whose course provided the SQL foundations and dataset that enabled me to put these skills into practice.
+
+This capstone represents an important step in my transition into data analytics, demonstrating my ability to take a real-world dataset, ask meaningful questions, apply SQL techniques, and communicate findings from the data.
+
+### ❓ The questions I wanted to answer with SQL queries were:
 
 1. What are the top paying data analyst jobs?
 2. What skills are required for these top paying jobs?
@@ -20,7 +26,7 @@ The data provided was packed with insights on job titles, salaries, locations an
 4. Which skills are associated with higher salaries?
 5. What are the most optimal skills to learn?
 
-# Tools I Learned to Use
+ # 🛠️ Tools I Learned to Use
 
 I mastered the power of several key tools:
 
@@ -29,12 +35,12 @@ I mastered the power of several key tools:
 - **Visual Studio Code:** Fantastic editor for database management and executing SQL queries.
 - **Git & Github:** Essential for version control, sharing my SQL scripts, as well as tracking and storing my projects.
 
-# The Analysis
+# 🔍 The Analysis
 
 Each query for this project aimed at investigating specific aspects of the data analyst job market.
 Here is how I approached each question:
 
-### 1. Top Paying Data Analyst Jobs
+### 💰 1. Top Paying Data Analyst Jobs
 To identify the highest paying roles, I filtered data analyst positions by average yearly salary and location, focusing on remote jobs. This query showcases the high paying jobs in the field.
 
 ```sql
@@ -66,7 +72,7 @@ Here is a breakdown of the top paying data analyst jobs for 2023:
 ![Top 10 Paying Roles](./Assets/top_paying_data_jobs_2023.png)
 *Bar graph visualizing the top 10 paying salaries for Data Analyst roles; ChatGPT generated this graph from my SQL query results.*
 
-### 2. Skills Required For These Top Paying Jobs
+### 🧠 2. Skills Required For These Top Paying Jobs
 
 To identify the top 10 highest paying data analyst jobs with a detailed look at which skills align with these high salary roles, they help me decide on which core skills and complementary skills to learn first.
 
@@ -111,7 +117,7 @@ Other skills like **R**, **Snowflake**, **Pandas** and **Excel** show varying de
 ![Skills For Top 10 Paying Roles](./Assets/skills_for_top_paying_jobs_2023.png)
 *Bar graph visualizing the skills for these top 10 paying Data Analyst roles; ChatGPT generated this graph from my SQL query results.*
 
-### 3. Most In-Demand Skills For Data Analysts
+### 🧰 3. Most In-Demand Skills For Data Analysts
 
 For greater insight from the 2023 data jobs set, I decided to focus on all data job postings and ran a query to narrow down which top 5 skills are highest in demand.
 
@@ -145,7 +151,7 @@ Here is a breakdown of the most in-demand skills for data analyst jobs in 2023:
 
 *Screenshot of the temporary results set from the above query; Most in-demand skills for data analysts.*
 
-### 4. Skills Associated With Higher Salaries
+### 💵 4. Skills Associated With Higher Salaries
 
 It was important for me to run this next query, because I would be able to look at the average salaries associated with each skill for a remote data analyst role, how different skills impact salary levels and to identify the most rewarding skills to acquire.
 
@@ -180,7 +186,7 @@ Here is a breakdown of the skills associated with high paying data analyst jobs 
 
 *Screenshot of the temporary results set from the above query; Skills associated with higher salaries for data analysts.*
 
-### 5. Most Optimal Skills To Learn
+### 🎯 5. Most Optimal Skills To Learn
 
 What are the most optimal skills to learn for a data analyst where high demand meets high-paying skill? 
 
@@ -278,7 +284,7 @@ Here is a breakdown of the most optimal skills to learn for data analyst jobs in
 
 *Screenshot of the temporary results set from the above query; Most optimal skills to learn. Note: not all results are visible in screenshot.*
 
-# What I Learned
+# 📚 What I Learned
 
 Throughout this explorative journey, I have increased my knowledge and enhanced my capabilities to use SQL effectively and transform data into a gold mine of insightful information like:
 
@@ -288,9 +294,9 @@ Throughout this explorative journey, I have increased my knowledge and enhanced 
 
 - **Tactical Analysis:** Levelled up my real-world problem-solving skills by turning business questions into practical SQL solutions, using everything from conditional logic and date calculations to set operations and filtering to deliver actionable answers.
 
-# Conclusions
+# 🚀 Conclusions
 
-### Insights
+### 💡 Insights
 
 1. **Top Paying Data Analyst Jobs:** The highest paying remote data analyst jobs tend to lean more towards **management** or senior roles, with salaries ranging between $184,000 to $650,000.
 
@@ -302,7 +308,7 @@ Throughout this explorative journey, I have increased my knowledge and enhanced 
 
 5. **Optimal Skill For Job Market Value:** The optimal skill to have for job market value, based on job postings from 2023 was **SQL** and is confirmed from the data to have the highest demand count with an above-average salary.
 
-### Closing Thoughts
+### ✅ Closing Thoughts
 
 This project improved and enhanced my SQL skills which helped me formulate the necessary insights needed to know what skills are most sought after in the data analyst job market. 
 
