@@ -28,7 +28,7 @@ This capstone represents an important step in my transition into data analytics,
 
  # 🛠️ Tools I Learned to Use
 
-I mastered the power of several key tools:
+I utilized the power of several key tools:
 
 - **SQL:** The backbone for data analysts, this allowed me to query the database and bring to light important insights.
 - **PostgreSQL:** The chosen database management system, ideal for handling the job posting data.
@@ -288,7 +288,7 @@ Here is a breakdown of the most optimal skills to learn for data analyst jobs in
 
 Throughout this explorative journey, I have increased my knowledge and enhanced my capabilities to use SQL effectively and transform data into a gold mine of insightful information like:
 
-- **Complex Query Crafting:** Mastered advanced SQL techniques, joining multiple tables like a pro and using **WITH** clauses, **CASE** expressions, **UNIONs**, **date functions**, and **operators** to build flexible, efficient, and insightful queries.
+- **Complex Query Crafting:** Applied advanced SQL techniques, joining multiple tables like a pro and using **WITH** clauses, **CASE** expressions, **UNIONs**, **date functions**, and **operators** to build flexible, efficient, and insightful queries.
 
 - **Data Aggregations:** Got comfortable with using **GROUP BY** and turned aggregate functions like **COUNT()** and **AVG()** into useful tools for summarising data, spotting patterns, and uncovering key insights.
 
